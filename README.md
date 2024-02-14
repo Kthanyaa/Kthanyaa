@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thanyalak, you can call me Kae for short
-- 👀 I’m interested in Data, Manament, Finance
+- 👀 I’m interested in Data, Management, Finance
 - 🌱 I’m currently learning Data Science
 - 📫 You can reach to me via email: Thanyalak.ith@gmail.com
 - 😄 Pronouns: Her
